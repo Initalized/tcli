@@ -1,5 +1,7 @@
 # TCLI - Tactical Command-Line Interface
 
+** This project is still work in progess
+
 **TCLI** is a highly interactive, multi-threaded command-line interface for local and remote directory enumeration, scanning, session management, and more. It is designed for power users, sysadmins, and security testers who need a fast, extensible, and visually rich CLI toolkit.
 
 ---
