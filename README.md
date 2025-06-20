@@ -73,7 +73,7 @@
 
 ## Keyboard Shortcuts
 
-- **Tab:** Auto-complete commands and arguments
+- **Tab:** Auto-complete commands and arguments (This feature doesnt work)
 - **Up/Down:** Navigate command history
 - **Syntax Highlighting:**  
     - Commands: **purple bold**
